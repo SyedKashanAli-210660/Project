@@ -1,0 +1,81 @@
+{
+  "restraurant": [
+    {
+      "id": "1",
+      "name": "PizzaHut",
+      "address": "Murree-Road",
+      "rating": "4.5",
+      "email": "pizzahut@data.com"
+    },
+    {
+      "id": "2",
+      "name": "PapaSellers",
+      "address": "Westridge",
+      "rating": "4.75",
+      "email": "papasellers@data.com"
+    },
+    {
+      "id": "3",
+      "name": "McDonalds",
+      "address": "Saddar",
+      "rating": "4.4",
+      "email": "McDonalds@data.com"
+    },
+    {
+      "id": "4",
+      "name": "Ranchers",
+      "address": "Commercial Market",
+      "rating": "5.0",
+      "email": "Ranchers@data.com"
+    },
+    {
+      "id": "5",
+      "name": "Tehzeeb",
+      "address": "Food Street",
+      "rating": "3.9",
+      "email": "Tehzeeb@data.com"
+    },
+    {
+      "id": "6",
+      "name": "Rahat",
+      "address": "Sattelie Town",
+      "rating": "3.7",
+      "email": "Rahat@data.com"
+    },
+    {
+      "id": "7",
+      "name": "Ideal",
+      "address": "Sattelie Town",
+      "rating": "3.7",
+      "email": "Rahat@data.com"
+    },
+    {
+      "id": "8",
+      "name": "MrCook",
+      "address": "Allahabad",
+      "rating": "4.9",
+      "email": "MrCook@data.com"
+    },
+    {
+      "id": "9",
+      "rating": "5.0",
+      "address": "Blue Area",
+      "email": "gloreajeans@gmai.com ",
+      "name": "Glorea Jeans"
+    },
+    {
+      "id": "10",
+      "rating": "3.0",
+      "address": "Saddar",
+      "email": "kfc@gmail.com",
+      "name": "KFC"
+    },
+    {
+      "id": "11",
+      "name": "Chai Khana",
+      "email": "chaikhana@gmail.com",
+      "rating": "3.9",
+      "address": "Ghauri Town"
+    }
+  ]
+}
